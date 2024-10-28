@@ -1,0 +1,25 @@
+#loading-screen {
+	display: none;
+	overflow:hidden;
+	text-align:center;
+}
+
+label[for="r2"] {
+	font-size: 14px;
+}
+
+.ui-dialog-titlebar {
+	background: #F0AD4E;
+}
+
+.ui-dialog-title {
+	color: #FFF;
+}
+
+.ui-dialog {
+	background-color: #EBEBEB;
+}
+
+.ui-button.ui-dialog-titlebar-close {
+	color: #FFF;
+}
